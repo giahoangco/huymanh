@@ -39,13 +39,13 @@ $_SERVER["HTTPS"] = "on";
 /** The name of the database for WordPress */
 define('WP_CACHE', true);
 define( 'WPCACHEHOME', '/home/u410338807/public_html/wp-content/plugins/wp-super-cache/' );
-define('DB_NAME', 'u410338807_mpro');
+define('DB_NAME', 'dataname');
 
 /** MySQL database username */
-define('DB_USER', 'u410338807_mpro');
+define('DB_USER', 'datauser');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'Manh@9985');
+define('DB_PASSWORD', 'Password');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
